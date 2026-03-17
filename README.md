@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Pulkit  
 
-<!--
-**hardahapulkit19-creator/hardahapulkit19-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 Passionate about Web Development  
+🚀 Currently learning and building projects using JavaScript  
+📍 India  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 About Me  
+- 🌱 I’m currently learning Frontend Development (HTML, CSS, JavaScript)  
+- 🔭 I’m working on real-world beginner projects  
+- 💡 Interested in Web Development & Software Development  
+- 🎯 Goal: To become a skilled Full Stack Developer  
+
+# 🛠️ Tech Stack  
+- 💻 Languages: HTML, CSS, JavaScript  
+- ⚙️ Tools: Git, GitHub, VS Code  
+
+# 📌 Projects  
+- 🔢 Counter App  
+- 📚 Beginner Projects  
+
+# 📫 Connect with Me  
+- 📧 Email: hardahapulkit19@gmail.com  
+
+⭐ Consistency is the key to success in coding.
